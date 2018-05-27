@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="short_description" label="Short Description" language="en" table="x_176674_expense_m_expense_report">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <help/>
+            <hint/>
+            <label>Short Description</label>
+            <language>en</language>
+            <name>x_176674_expense_m_expense_report</name>
+            <plural>Short Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 07:54:46</sys_created_on>
+            <sys_id>31a70534db125300b2d678eebf96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short Description</sys_name>
+            <sys_package display_value="Expense Management" source="x_176674_expense_m">d6e505b0db125300b2d678eebf96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Expense Management">d6e505b0db125300b2d678eebf96194c</sys_scope>
+            <sys_update_name>sys_documentation_x_176674_expense_m_expense_report_short_description_en</sys_update_name>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 07:54:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Expense Line Items" max_length="40" name="x_176674_expense_m_expense_line_items" type="collection">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element label="Lodging" sequence="0" value="Lodging"/>
+                <element label="Miles" sequence="1" value="Miles"/>
+                <element label="Travel" sequence="2" value="Travel"/>
+                <element label="Supplies" sequence="3" value="Supplies"/>
+                <element label="Others" sequence="4" value="Others"/>
+            </choice>
+        </element>
+        <element label="Cost" mandatory="true" max_length="20" name="cost" type="currency"/>
+        <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element label="Expense Report" mandatory="true" max_length="32" name="expense_report" reference="x_176674_expense_m_expense_report" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Receipt" max_length="40" name="receipt" type="user_image"/>
+        <element default="true" label="Reumbersable" max_length="40" name="reumbersable" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Miles Driven" max_length="40" name="u_miles_driven" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="40" name="u_short_description" type="string"/>
+        <index name="index">
+            <element name="expense_report"/>
+        </index>
+    </element>
+</database>

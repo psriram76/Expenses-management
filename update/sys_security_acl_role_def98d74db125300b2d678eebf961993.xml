@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sriram</sys_created_by>
+        <sys_created_on>2018-05-23 08:04:54</sys_created_on>
+        <sys_id>def98d74db125300b2d678eebf961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_176674_expense_m_expense_line_items.x_176674_expense_m.expense_line_items_user</sys_name>
+        <sys_package display_value="Expense Management" source="x_176674_expense_m">d6e505b0db125300b2d678eebf96194c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Management">d6e505b0db125300b2d678eebf96194c</sys_scope>
+        <sys_security_acl display_value="x_176674_expense_m_expense_line_items">12f98d74db125300b2d678eebf961991</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_def98d74db125300b2d678eebf961993</sys_update_name>
+        <sys_updated_by>sriram</sys_updated_by>
+        <sys_updated_on>2018-05-23 08:04:54</sys_updated_on>
+        <sys_user_role display_value="x_176674_expense_m.expense_line_items_user" name="x_176674_expense_m.expense_line_items_user">82f98174db125300b2d678eebf961909</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

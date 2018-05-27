@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_176674_expense_m_expense_line_items" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>572d4db4db125300b2d678eebf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>db2d4db4db125300b2d678eebf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cost</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>true</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>5f2d4db4db125300b2d678eebf9619dc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:21:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>df2d4db4db125300b2d678eebf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>expense_report</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>532d4db4db125300b2d678eebf9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>receipt</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>d32d4db4db125300b2d678eebf9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>reumbersable</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>572d4db4db125300b2d678eebf9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_miles_driven</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>d72d4db4db125300b2d678eebf9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_short_description</element>
+            <list_id display_value="x_176674_expense_m_expense_line_items" element="NULL" name="x_176674_expense_m_expense_line_items" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db2d4db4db125300b2d678eebf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_id>5b2d4db4db125300b2d678eebf9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_176674_expense_m_expense_line_items</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sriram</sys_created_by>
+            <sys_created_on>2018-05-23 08:18:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db2d4db4db125300b2d678eebf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_176674_expense_m_expense_line_items</sys_name>
+            <sys_package display_value="Expense Management" source="x_176674_expense_m">d6e505b0db125300b2d678eebf96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Expense Management">d6e505b0db125300b2d678eebf96194c</sys_scope>
+            <sys_update_name>sys_ui_list_x_176674_expense_m_expense_line_items_null</sys_update_name>
+            <sys_updated_by>sriram</sys_updated_by>
+            <sys_updated_on>2018-05-23 08:18:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
