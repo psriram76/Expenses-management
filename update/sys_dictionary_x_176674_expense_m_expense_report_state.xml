@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>sriram</sys_created_by>
         <sys_created_on>2018-05-23 07:54:46</sys_created_on>
-        <sys_id>e227cdb0db125300b2d678eebf9619c1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>72c6b486db121300b2d678eebf96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Stage</sys_name>
         <sys_package display_value="Expense Management" source="x_176674_expense_m">d6e505b0db125300b2d678eebf96194c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Expense Management">d6e505b0db125300b2d678eebf96194c</sys_scope>
         <sys_update_name>sys_dictionary_x_176674_expense_m_expense_report_state</sys_update_name>
-        <sys_updated_by>sriram</sys_updated_by>
-        <sys_updated_on>2018-05-23 08:35:25</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-05-27 03:53:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
